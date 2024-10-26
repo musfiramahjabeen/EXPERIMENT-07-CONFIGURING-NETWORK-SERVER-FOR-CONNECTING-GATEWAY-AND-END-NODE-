@@ -1,7 +1,9 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
-## Aim: To  configure  the Network server and end device for traferring data on the network
-## Components required: end node stm 32 development kit , dragino LPS8, network server 
+## Aim: 
+To  configure  the Network server and end device for traferring data on the network
+## Components required:
+end node stm 32 development kit , dragino LPS8, network server 
 
 ## Theory :
 When working with sensitive applications or files, saving progress on your local device is a start, but what if you lose access to your device? Network servers address this problem by hosting the files and programs most pertinent to the network and enabling access for consistent, real-time use. 
@@ -47,7 +49,20 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+### Home Page
+![Screenshot 2024-10-26 102316](https://github.com/user-attachments/assets/090aa3b8-f487-4f37-9738-2f56389e4042)
+### Gateway
+![Screenshot 2024-10-26 113150](https://github.com/user-attachments/assets/91eb1292-f975-490d-8e1b-ca58c1193066)
+![Screenshot 2024-10-26 113238](https://github.com/user-attachments/assets/8462b105-7734-436c-a1e1-770341f1db26)
+### Channel
+![Screenshot 2024-10-26 113438](https://github.com/user-attachments/assets/5faf542e-1cb3-4e10-89ff-d5318d9cbcf1)
+### End Device
+![Screenshot 2024-10-26 113644](https://github.com/user-attachments/assets/6215685b-408a-4a4d-a71c-72be470dcaf7)
+![Screenshot 2024-10-26 113655](https://github.com/user-attachments/assets/12b40174-d8de-4ee9-bbda-868dfc160b60)
+
+
+
+
 
 
 
